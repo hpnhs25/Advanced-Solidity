@@ -12,32 +12,32 @@
 
 ![hus1](./images/1G.png)
 
-![hus1](./Images/2G.png)
+![hus1](./images/2G.png)
 
-![hus1](./Images/3G.png)
+![hus1](./images/3G.png)
 
-![hus1](./Images/4G.png)
+![hus1](./images/4G.png)
 
 * Ganache screens showing blacks created and proof of contract calls
 
-![hus1](./Images/G1.png)
+![hus1](./images/G1.png)
 
-![hus1](./Images/G2.png)
+![hus1](./images/G2.png)
 
-![hus1](./Images/G3.png)
+![hus1](./images/G3.png)
 
 * Proof of performance work showing interaction between KaseiCoin and MetaMask Account
 
-![hus1](./Images/1MM.png)
+![hus1](./images/1MM.png)
 
-![hus1](./Images/2MM.png)
+![hus1](./images/2MM.png)
 
 * MetaMask Account screens showing proof of performance 
 
-![hus1](./Images/MM1.png)
+![hus1](./images/MM1.png)
 
-![hus1](./Images/MM2.png)
+![hus1](./images/MM2.png)
 
-![hus1](./Images/GMM-4.png)
+![hus1](./images/GMM-4.png)
 
-![hus1](./Images/GMM-5.png)
+![hus1](./images/GMM-5.png)
